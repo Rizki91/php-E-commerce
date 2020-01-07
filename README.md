@@ -1,4 +1,4 @@
-#Aplikasi E-Commerce Penjualan Barang Elektronik (PHP, MySQL, CMS Toko Lokomedia)
+#Aplikasi E-Commerce Penjualan  (PHP, MySQL)
 Login pengguna:
 
 Administrator:
