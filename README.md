@@ -7,5 +7,24 @@ Dibangun dan dirancang menggunakan bahasa pemrograman PHP & MySQL yang mana tent
 ![](1.PNG)
 * Halaman login customer
 ![](login1.PNG)
-
+* Halaman Beli Barang
+![](2.PNG)
+* Halaman Proses Order
+![](3.PNG)
+* Halaman Selesain Order
+![](4.PNG)
+* Halaman login Admin
+![](login2.PNG)
+* Halaman Admin
+![](5.PNG)
+* Halaman Kategori
+![](6.PNG)
+* Halaman Produk
+![](7.PNG)
+* Halaman Order Masuk
+![](8.PNG)
+* Halaman Ongkos Kirim
+![](9.PNG)
+* Halaman Laporan Transaksi
+![](10.PNG)
 
