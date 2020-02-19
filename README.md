@@ -6,12 +6,6 @@ Dibangun dan dirancang menggunakan bahasa pemrograman PHP & MySQL yang mana tent
 * Halaman customer
 ![](1.PNG)
 * Halaman login customer
-![](login customer.PNG)
-![](IMG_20190714_185803.jpg)
-![](IMG_20190714_185957.jpg)
-![](IMG_20190715_161612.jpg)
-![](IMG_20190714_190045.jpg)
-![](IMG_20190718_164912.jpg)
-![](IMG_20190716_004038.jpg)
-![](IMG_20190715_161555.jpg)
+![](login1.PNG)
+
 
